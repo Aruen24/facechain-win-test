@@ -75,15 +75,19 @@ Traceback (most recent call last):
 IndexError: too many indices for array: array is 0-dimensional, but 2 were indexed
 ```
 ## Input Image
-![aa](https://github.com/Aruen24/facechain-win-test/assets/27750891/a0235cbb-4a04-4de0-8d8b-2a061a7da547)
+![image](qw/aa.png)
 
 
 ## 无线风格形象写真
-![bb](https://github.com/Aruen24/facechain-win-test/assets/27750891/4863262f-e3c5-4852-a90c-e97ca67cf5a8)
+![image](qw/bb.png)
 
 
 ## 固定模版形象写真
-![cc](https://github.com/Aruen24/facechain-win-test/assets/27750891/2c08a9a5-8d13-4b6e-a388-bec18d7d18cc)
+![image](qw/bb1.png)
+
+
+## 固定模版形象写真
+https://github.com/Aruen24/facechain-win-test/assets/27750891/57b1230a-7b74-4afa-bc72-aa8ee6e7d006
 
 
 
