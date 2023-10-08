@@ -86,7 +86,7 @@ IndexError: too many indices for array: array is 0-dimensional, but 2 were index
 ![image](qw/bb1.png)
 
 
-## 固定模版形象写真
+## 人物说话视频生成
 https://github.com/Aruen24/facechain-win-test/assets/27750891/57b1230a-7b74-4afa-bc72-aa8ee6e7d006
 
 
